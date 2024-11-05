@@ -1,0 +1,376 @@
+[
+  {
+    "Category": "Assortment / Products",
+    "SubCategories": [
+      "Alignment with needs",
+      "Product range",
+      "Product quality",
+      "Product availability",
+      "Product descriptions",
+      "Ease of use",
+      "Search results relevance",
+      "Promotions",
+      "Clarity of information",
+      "Stock updates"
+    ]
+  },
+  {
+    "Category": "Customer Service",
+    "SubCategories": [
+      "Availability",
+      "Professionalism",
+      "Empathy",
+      "Solution-oriented",
+      "Responsiveness",
+      "Knowledge of products",
+      "Friendliness",
+      "Clear communication",
+      "Handling complaints",
+      "Advice quality"
+    ]
+  },
+  {
+    "Category": "Website / App",
+    "SubCategories": [
+      "Ease of checkout",
+      "Payment options",
+      "User-friendliness",
+      "Visual appeal",
+      "Product information",
+      "Mobile responsiveness",
+      "Search functionality",
+      "Loading speed",
+      "Clarity of instructions",
+      "Website navigation"
+    ]
+  },
+  {
+    "Category": "Pricing",
+    "SubCategories": [
+      "Clarity of price",
+      "Discounts",
+      "Price-quality ratio",
+      "Special offers",
+      "Value for money",
+      "Payment flexibility",
+      "Transparency",
+      "Price comparison",
+      "Cost explanations",
+      "Billing accuracy"
+    ]
+  },
+  {
+    "Category": "Delivery",
+    "SubCategories": [
+      "Delivery speed",
+      "Product condition",
+      "Delivery updates",
+      "Handling delays",
+      "Communication on delivery",
+      "Timeliness of delivery",
+      "Completeness of delivery",
+      "Packaging quality",
+      "Delivery options",
+      "Tracking information"
+    ]
+  },
+  {
+    "Category": "Product Returns & Exchanges",
+    "SubCategories": [
+      "Ease of returns",
+      "Communication on return process",
+      "Timeliness of refund",
+      "Condition of returned products",
+      "Clear return policy",
+      "Handling of complaints",
+      "Customer support during return",
+      "Process transparency",
+      "Speed of exchanges",
+      "Satisfaction with resolution"
+    ]
+  },
+  {
+    "Category": "After-Sales Support",
+    "SubCategories": [
+      "Availability of support",
+      "Speed of support",
+      "Communication quality",
+      "Solution effectiveness",
+      "Knowledge of staff",
+      "Satisfaction with help",
+      "Proactive assistance",
+      "Handling of issues",
+      "Follow-up on support",
+      "Clarity in next steps"
+    ]
+  },
+  {
+    "Category": "Customer Service Team",
+    "SubCategories": [
+      "Role clarity",
+      "Handling difficult customers",
+      "Availability of resources",
+      "Training and development",
+      "Work-life balance",
+      "Interaction with supervisors",
+      "Tools and technology",
+      "Process alignment",
+      "Recognition and rewards",
+      "Communication within the team"
+    ]
+  },
+  {
+    "Category": "Sales Team",
+    "SubCategories": [
+      "Lead quality",
+      "Sales tools effectiveness",
+      "Goal alignment",
+      "Compensation structure",
+      "Training on products/services",
+      "Feedback from customers",
+      "Interaction with management",
+      "Career growth opportunities",
+      "Motivation and morale",
+      "Handling of objections"
+    ]
+  },
+  {
+    "Category": "Technical Support",
+    "SubCategories": [
+      "Issue resolution processes",
+      "Product/service knowledge",
+      "Escalation procedures",
+      "Team collaboration",
+      "Availability of tools",
+      "Technical training",
+      "Customer feedback handling",
+      "Time management",
+      "Stress levels",
+      "Clarity in roles and responsibilities"
+    ]
+  },
+  {
+    "Category": "HR & Administration",
+    "SubCategories": [
+      "Availability of HR support",
+      "Clarity in HR processes",
+      "Transparency in communication",
+      "Support during onboarding",
+      "Employee benefits understanding",
+      "Workplace safety",
+      "Handling of complaints",
+      "Conflict resolution",
+      "Recognition programs",
+      "Professional growth opportunities"
+    ]
+  },
+  {
+    "Category": "Collaboration Across Departments",
+    "SubCategories": [
+      "Ease of cross-department collaboration",
+      "Clarity in goals and tasks",
+      "Communication between teams",
+      "Proactivity in solving joint problems",
+      "Feedback and improvement mechanisms",
+      "Alignment of tools and technology",
+      "Flexibility in roles",
+      "Knowledge sharing across departments",
+      "Clarity in roles and expectations",
+      "Problem-solving speed"
+    ]
+  },
+  {
+    "Category": "Training Programs",
+    "SubCategories": [
+      "Diversity of offerings",
+      "Financial support",
+      "Relevance to work",
+      "Communication about courses",
+      "Instructor quality",
+      "Training materials",
+      "Growth opportunities",
+      "Scheduling flexibility",
+      "Impact of training on performance",
+      "Follow-up support"
+    ]
+  },
+  {
+    "Category": "Product Development",
+    "SubCategories": [
+      "Innovation encouragement",
+      "Understanding customer needs",
+      "Feedback loop for product improvement",
+      "Communication between R&D and sales/marketing",
+      "Time-to-market efficiency",
+      "Cross-functional collaboration",
+      "Budget and resource allocation",
+      "Risk management in development",
+      "Handling of customer complaints in the development cycle",
+      "Post-launch analysis"
+    ]
+  },
+  {
+    "Category": "Brand Perception & Market Research",
+    "SubCategories": [
+      "Market positioning",
+      "Customer awareness",
+      "Public relations strategy",
+      "Competitor analysis",
+      "Product-market fit",
+      "Brand loyalty and customer advocacy",
+      "Social media engagement",
+      "Innovation in brand positioning",
+      "Alignment of marketing with product vision",
+      "Understanding customer trends"
+    ]
+  },
+  {
+    "Category": "Work Environment",
+    "SubCategories": [
+      "Office layout and comfort",
+      "Cleanliness and safety",
+      "Noise levels",
+      "Availability of resources",
+      "Access to support",
+      "Flexibility in working hours",
+      "Wellness initiatives",
+      "Team culture",
+      "Leadership accessibility",
+      "General morale"
+    ]
+  },
+  {
+    "Category": "Performance & Recognition",
+    "SubCategories": [
+      "Clarity of performance goals",
+      "Regular feedback from managers",
+      "Performance reviews",
+      "Recognition for achievements",
+      "Opportunities for advancement",
+      "Clarity in promotion criteria",
+      "Mentorship programs",
+      "Rewards and benefits alignment",
+      "Motivation and job satisfaction",
+      "Retention rates"
+    ]
+  },
+  {
+    "Category": "Colleagues",
+    "SubCategories": [
+      "Collaboration",
+      "Trust",
+      "Communication",
+      "Support",
+      "Teamwork",
+      "Shared goals",
+      "Social engagement",
+      "Conflict resolution",
+      "Helpfulness",
+      "Respectful relationships"
+    ]
+  },
+  {
+    "Category": "Work Freedom",
+    "SubCategories": [
+      "Autonomy in tasks",
+      "Flexibility in work hours",
+      "Ability to make decisions",
+      "Remote work options",
+      "Creativity encouragement",
+      "Ownership of work",
+      "Freedom to innovate",
+      "Trust from leadership",
+      "Balance between autonomy and guidance",
+      "Independence in roles"
+    ]
+  },
+  {
+    "Category": "Manager",
+    "SubCategories": [
+      "Availability",
+      "Supportiveness",
+      "Communication clarity",
+      "Feedback and guidance",
+      "Empathy",
+      "Leadership style",
+      "Understanding of employee challenges",
+      "Responsiveness",
+      "Encouragement",
+      "Manager-employee relationship"
+    ]
+  },
+  {
+    "Category": "Upper Management",
+    "SubCategories": [
+      "Transparency",
+      "Strategic vision",
+      "Accessibility",
+      "Trust in leadership",
+      "Communication of company goals",
+      "Responsiveness to feedback",
+      "Company-wide decision-making",
+      "Alignment with employee values",
+      "Long-term planning",
+      "Change management"
+    ]
+  },
+  {
+    "Category": "Workload & Stress",
+    "SubCategories": [
+      "Work-life balance",
+      "Task distribution",
+      "Overtime expectations",
+      "Flexibility in dealing with stress",
+      "Availability of breaks",
+      "Support from leadership",
+      "Job pressure",
+      "Understanding workload limitations",
+      "Assistance with task overload",
+      "Mental health support"
+    ]
+  },
+  {
+    "Category": "Job Security",
+    "SubCategories": [
+      "Confidence in long-term role",
+      "Trust in company’s stability",
+      "Clarity in contract terms",
+      "Opportunity for advancement",
+      "Ability to adapt to market changes",
+      "Reassurance during layoffs or restructuring",
+      "Understanding future company plans",
+      "Transparency in HR policies",
+      "Employee retention efforts"
+    ]
+  },
+  {
+    "Category": "Work-Life Balance",
+    "SubCategories": [
+      "Flexibility in work hours",
+      "Understanding from management on personal matters",
+      "Ability to disconnect outside work hours",
+      "Support during family or personal emergencies",
+      "Availability of remote work options",
+      "Encouragement for personal time",
+      "Sufficient paid leave",
+      "Well-being programs",
+      "Support for part-time roles",
+      "Company-wide initiatives promoting balance"
+    ]
+  },
+  {
+    "Category": "Job Satisfaction",
+    "SubCategories": [
+      "Alignment with personal goals",
+      "Motivation to perform",
+      "Pride in work",
+      "Appreciation of company values",
+      "Meaningfulness of work",
+      "Opportunities for skill development",
+      "Passion for tasks",
+      "Connection to the company’s mission",
+      "Satisfaction with role responsibilities",
+      "General happiness in the workplace"
+    ]
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "Category": "Assortment / Products",
+    "SubCategory": "Product availability",
+    "Keywords": [
+      "limited stock",
+      "out of stock",
+      "availability issues"
+    ],
+    "Answer": "I was looking for a specific product, but it was out of stock for weeks. It�s frustrating that the product range seems broad, but the actual availability is limited. Stock updates weren't clear, and I had to keep checking back to see when the item would be restocked."
+  },
+  {
+    "Category": "Assortment / Products",
+    "SubCategory": "Search results relevance",
+    "Keywords": [
+      "irrelevant search",
+      "hard to find",
+      "confusing results"
+    ],
+    "Answer": "The search results didn�t seem relevant to my query. I searched for a specific item, but the first few results were unrelated, and I had to scroll a lot to find what I needed. It wasn�t intuitive, and the search algorithm needs improvement."
+  },
+  {
+    "Category": "Customer Service",
+    "SubCategory": "Professionalism",
+    "Keywords": [
+      "unprofessional",
+      "not helpful",
+      "rude representative"
+    ],
+    "Answer": "The customer service experience was subpar. The representative I spoke with seemed unprofessional and uninterested in resolving my issue. They were brief and dismissive, making me feel like my problem was a burden rather than something they genuinely wanted to solve."
+  },
+  {
+    "Category": "Customer Service",
+    "SubCategory": "Responsiveness",
+    "Keywords": [
+      "slow response",
+      "delayed replies",
+      "not timely"
+    ],
+    "Answer": "I reached out for assistance with my order, but the response time was too slow. It took two days to get an initial reply, and even then, the follow-up took another couple of days. It would be much better if they responded more promptly, especially for urgent issues."
+  },
+  {
+    "Category": "Website / App",
+    "SubCategory": "Mobile responsiveness",
+    "Keywords": [
+      "mobile issues",
+      "not responsive",
+      "poor mobile experience"
+    ],
+    "Answer": "The website works fine on a desktop, but the mobile experience is terrible. The pages don't adjust properly, and I had to constantly zoom in to see anything clearly. Buttons and links were hard to click, and overall it felt clunky. It really needs to be optimized for mobile."
+  },
+  {
+    "Category": "Website / App",
+    "SubCategory": "Loading speed",
+    "Keywords": [
+      "slow website",
+      "long load times",
+      "delays"
+    ],
+    "Answer": "The website takes forever to load. Whether I�m browsing products or trying to check out, the load times are consistently slow. I almost gave up because I had to wait so long for each page to load, which made the entire experience frustrating and inefficient."
+  },
+  {
+    "Category": "Pricing",
+    "SubCategory": "Price-quality ratio",
+    "Keywords": [
+      "overpriced",
+      "not worth it",
+      "poor value"
+    ],
+    "Answer": "The prices seem high for the quality of the products. I expected better for what I paid, but the value just wasn't there. I think the pricing doesn�t match the quality, and I�d be hesitant to buy again unless the cost was more in line with what�s being offered."
+  },
+  {
+    "Category": "Pricing",
+    "SubCategory": "Transparency",
+    "Keywords": [
+      "unclear pricing",
+      "hidden fees",
+      "not upfront"
+    ],
+    "Answer": "The pricing wasn�t transparent. There were hidden fees that appeared at checkout, and it wasn�t clear where they came from. It would be much better if all costs were shown upfront, so there are no surprises when you go to pay. The lack of clarity felt deceptive."
+  },
+  {
+    "Category": "Delivery",
+    "SubCategory": "Delivery speed",
+    "Keywords": [
+      "late delivery",
+      "slow shipping",
+      "not on time"
+    ],
+    "Answer": "The delivery took much longer than expected. I paid for express shipping, but it arrived days after the promised date. There were no updates on the delay, and I wasn�t given any reason for why it was late. I was left feeling frustrated and unsure of when it would finally arrive."
+  },
+  {
+    "Category": "Delivery",
+    "SubCategory": "Packaging quality",
+    "Keywords": [
+      "damaged packaging",
+      "poor packing",
+      "insufficient protection"
+    ],
+    "Answer": "The product arrived with damaged packaging. It wasn�t packed securely, and I�m lucky the item itself wasn�t broken. The box was flimsy, and the tape was already coming off when it arrived. I expected much better quality in terms of how it was packaged for shipping."
+  },
+  {
+    "Category": "Assortment / Products",
+    "SubCategory": "Product quality",
+    "Keywords": [
+      "defective product",
+      "poor quality",
+      "broken item"
+    ],
+    "Answer": "I received a product that was of very low quality. It felt cheap and didn�t last long. I expected better from this brand, especially at this price point."
+  },
+  {
+    "Category": "Assortment / Products",
+    "SubCategory": "Ease of use",
+    "Keywords": [
+      "difficult to use",
+      "not intuitive",
+      "complicated design"
+    ],
+    "Answer": "The product is too complicated to use. The instructions weren�t clear, and I struggled to set it up. It needs to be more user-friendly."
+  },
+  {
+    "Category": "Customer Service",
+    "SubCategory": "Empathy",
+    "Keywords": [
+      "didn't care",
+      "not understanding",
+      "dismissive"
+    ],
+    "Answer": "I felt the customer service representative didn�t care about my issue. They didn�t show empathy and seemed in a hurry to end the conversation."
+  },
+  {
+    "Category": "Customer Service",
+    "SubCategory": "Knowledge of products",
+    "Keywords": [
+      "didn't know details",
+      "uninformed",
+      "lack of product knowledge"
+    ],
+    "Answer": "The representative couldn�t answer my questions about the product. They seemed uninformed and kept putting me on hold to find answers."
+  },
+  {
+    "Category": "Website / App",
+    "SubCategory": "Website navigation",
+    "Keywords": [
+      "hard to navigate",
+      "confusing layout",
+      "difficult to find things"
+    ],
+    "Answer": "The website layout is confusing, making it hard to find specific items. I had to go through multiple menus to locate what I wanted."
+  },
+  {
+    "Category": "Website / App",
+    "SubCategory": "Search functionality",
+    "Keywords": [
+      "poor search function",
+      "can't find items",
+      "search problems"
+    ],
+    "Answer": "The search function is very basic and doesn�t bring up relevant results. I typed in a product name but couldn�t find it without extensive scrolling."
+  },
+  {
+    "Category": "Pricing",
+    "SubCategory": "Special offers",
+    "Keywords": [
+      "no deals",
+      "limited discounts",
+      "not enough offers"
+    ],
+    "Answer": "There are hardly any discounts or special offers. I wish they had more promotions to make purchases more affordable."
+  },
+  {
+    "Category": "Pricing",
+    "SubCategory": "Billing accuracy",
+    "Keywords": [
+      "overcharged",
+      "incorrect bill",
+      "wrong amount"
+    ],
+    "Answer": "I was overcharged for my order, and the bill didn�t match the advertised prices. I had to contact support to resolve the issue."
+  },
+  {
+    "Category": "Delivery",
+    "SubCategory": "Tracking information",
+    "Keywords": [
+      "no tracking",
+      "can't track order",
+      "lack of updates"
+    ],
+    "Answer": "I couldn�t track my order and didn�t receive any updates on its status. It would be helpful to know where my package is during transit."
+  },
+  {
+    "Category": "Delivery",
+    "SubCategory": "Timeliness of delivery",
+    "Keywords": [
+      "delivered late",
+      "not on time",
+      "missed delivery date"
+    ],
+    "Answer": "The delivery was late, which was disappointing because I had planned around the expected arrival date. It arrived two days after the promised date."
+  },
+  {
+    "Category": "Assortment / Products",
+    "SubCategory": "Clarity of information",
+    "Keywords": [
+      "unclear product details",
+      "missing information",
+      "ambiguous description"
+    ],
+    "Answer": "The product description was vague and didn�t provide enough information. I wasn�t sure what I was getting, and the specifications weren�t detailed."
+  },
+  {
+    "Category": "Assortment / Products",
+    "SubCategory": "Promotions",
+    "Keywords": [
+      "no discounts",
+      "promotion issues",
+      "lack of deals"
+    ],
+    "Answer": "The promotions were misleading. The discount wasn�t applied at checkout, and I had to contact support to get the issue sorted out."
+  },
+  {
+    "Category": "Customer Service",
+    "SubCategory": "Clear communication",
+    "Keywords": [
+      "confusing explanations",
+      "not clear",
+      "hard to understand"
+    ],
+    "Answer": "The representative didn�t communicate clearly, and I left the conversation even more confused. They need to explain things better."
+  },
+  {
+    "Category": "Customer Service",
+    "SubCategory": "Handling complaints",
+    "Keywords": [
+      "didn't resolve issue",
+      "complaint ignored",
+      "bad complaint handling"
+    ],
+    "Answer": "My complaint wasn�t handled properly. They didn�t offer a solution and seemed more interested in closing the ticket than helping me."
+  },
+  {
+    "Category": "Website / App",
+    "SubCategory": "Ease of checkout",
+    "Keywords": [
+      "complicated checkout",
+      "hard to complete purchase",
+      "checkout issues"
+    ],
+    "Answer": "The checkout process was too complicated. I had to enter my details multiple times, and there were several unnecessary steps."
+  },
+  {
+    "Category": "Website / App",
+    "SubCategory": "Payment options",
+    "Keywords": [
+      "limited payment methods",
+      "no flexibility",
+      "payment issues"
+    ],
+    "Answer": "There weren�t enough payment options. I prefer to use digital wallets, but they only had credit and debit card choices available."
+  },
+  {
+    "Category": "Pricing",
+    "SubCategory": "Clarity of price",
+    "Keywords": [
+      "unclear pricing",
+      "hidden costs",
+      "unexpected fees"
+    ],
+    "Answer": "The price wasn�t clear. There were additional fees added at checkout that weren�t mentioned anywhere on the product page."
+  },
+  {
+    "Category": "Pricing",
+    "SubCategory": "Value for money",
+    "Keywords": [
+      "too expensive",
+      "not worth the price",
+      "overpriced"
+    ],
+    "Answer": "The product isn�t worth the price. I could find similar items elsewhere for much less, so I don�t think it�s a good value for money."
+  },
+  {
+    "Category": "Delivery",
+    "SubCategory": "Completeness of delivery",
+    "Keywords": [
+      "missing items",
+      "incomplete order",
+      "not fully delivered"
+    ],
+    "Answer": "The delivery was missing items. I ordered several products, but one of them wasn�t in the package, even though I was charged for it."
+  },
+  {
+    "Category": "Delivery",
+    "SubCategory": "Handling delays",
+    "Keywords": [
+      "delayed order",
+      "shipment delay",
+      "no delay updates"
+    ],
+    "Answer": "My order was delayed, but I wasn�t informed until I reached out to customer service. Better communication on delays would be appreciated."
+  },
+  {
+    "Category": "Assortment / Products",
+    "SubCategory": "Alignment with needs",
+    "Keywords": [
+      "doesn't meet needs",
+      "not what I expected",
+      "missing features"
+    ],
+    "Answer": "The product didn’t have the features I was looking for. It’s almost like it’s designed for a different kind of user, and it didn’t meet my needs."
+  },
+  {
+    "Category": "Assortment / Products",
+    "SubCategory": "Product range",
+    "Keywords": [
+      "limited selection",
+      "not enough options",
+      "few varieties"
+    ],
+    "Answer": "I was hoping for more variety in the product selection. It felt limited, and I couldn’t find a specific variant I was looking for."
+  },
+  {
+    "Category": "Customer Service",
+    "SubCategory": "Friendliness",
+    "Keywords": [
+      "rude service",
+      "impolite",
+      "unpleasant interaction"
+    ],
+    "Answer": "The service was unfriendly. The representative wasn’t polite, and I felt uncomfortable throughout the interaction. It wasn’t a pleasant experience."
+  },
+  {
+    "Category": "Customer Service",
+    "SubCategory": "Advice quality",
+    "Keywords": [
+      "bad advice",
+      "not helpful",
+      "wrong guidance"
+    ],
+    "Answer": "The advice I received was not helpful. I followed their instructions, but it only made things worse. I expected more reliable guidance."
+  },
+  {
+    "Category": "Website / App",
+    "SubCategory": "Visual appeal",
+    "Keywords": [
+      "unattractive design",
+      "not appealing",
+      "boring website"
+    ],
+    "Answer": "The website design is outdated and not visually appealing. I think a modern look would make it more enjoyable to browse."
+  },
+  {
+    "Category": "Website / App",
+    "SubCategory": "Product information",
+    "Keywords": [
+      "incomplete details",
+      "lacking information",
+      "missing specs"
+    ],
+    "Answer": "The product information was lacking. Important details like dimensions and material were missing, which made it hard to decide."
+  },
+  {
+    "Category": "Pricing",
+    "SubCategory": "Discounts",
+    "Keywords": [
+      "no sales",
+      "rare discounts",
+      "no good deals"
+    ],
+    "Answer": "There are rarely any discounts, and even when there are, the reductions are minimal. It would be nice to see better deals or offers."
+  },
+  {
+    "Category": "Pricing",
+    "SubCategory": "Payment flexibility",
+    "Keywords": [
+      "no payment options",
+      "inflexible payment",
+      "limited methods"
+    ],
+    "Answer": "The payment options are too limited. I would have preferred if they accepted other payment methods like digital wallets or installment plans."
+  },
+  {
+    "Category": "Delivery",
+    "SubCategory": "Communication on delivery",
+    "Keywords": [
+      "no delivery updates",
+      "unclear delivery info",
+      "no tracking"
+    ],
+    "Answer": "I didn’t receive any updates on the delivery. There was no tracking, and I wasn’t sure when my package would arrive, which was frustrating."
+  },
+  {
+    "Category": "Delivery",
+    "SubCategory": "Delivery options",
+    "Keywords": [
+      "limited delivery options",
+      "no express delivery",
+      "not flexible"
+    ],
+    "Answer": "There weren’t many delivery options. I wanted faster shipping, but the only choice was standard delivery, which took too long."
+  },
+  {
+    "Category": "Assortment / Products",
+    "SubCategory": "Stock updates",
+    "Keywords": [
+      "no stock alerts",
+      "unclear restock dates",
+      "not updated"
+    ],
+    "Answer": "There were no updates on when the out-of-stock items would be available again. It would be helpful if they could provide stock alerts."
+  },
+  {
+    "Category": "Customer Service",
+    "SubCategory": "Availability",
+    "Keywords": [
+      "no support available",
+      "hard to reach",
+      "closed service"
+    ],
+    "Answer": "It was difficult to reach customer service as they weren’t available outside regular hours. I couldn’t get support when I needed it."
+  },
+  {
+    "Category": "Website / App",
+    "SubCategory": "Clarity of instructions",
+    "Keywords": [
+      "unclear steps",
+      "hard to follow",
+      "confusing instructions"
+    ],
+    "Answer": "The instructions on the website weren’t clear. I had trouble understanding how to navigate certain sections, and it made browsing difficult."
+  },
+  {
+    "Category": "Website / App",
+    "SubCategory": "User-friendliness",
+    "Keywords": [
+      "hard to use",
+      "complicated site",
+      "not intuitive"
+    ],
+    "Answer": "The site isn’t user-friendly at all. The layout is confusing, and it’s difficult to figure out where things are located."
+  },
+  {
+    "Category": "Pricing",
+    "SubCategory": "Cost explanations",
+    "Keywords": [
+      "unclear fees",
+      "no cost breakdown",
+      "not transparent"
+    ],
+    "Answer": "The cost explanations were unclear. I would appreciate a breakdown of the fees so I know exactly what I’m paying for."
+  },
+  {
+    "Category": "Delivery",
+    "SubCategory": "Product condition",
+    "Keywords": [
+      "damaged item",
+      "poor quality delivery",
+      "defective on arrival"
+    ],
+    "Answer": "The product arrived damaged. The box was crushed, and the item inside was broken. It looked like it hadn’t been handled carefully at all."
+  },
+  {
+    "Category": "Delivery",
+    "SubCategory": "Packaging quality",
+    "Keywords": [
+      "poor packaging",
+      "bad packing",
+      "not secure"
+    ],
+    "Answer": "The packaging wasn’t secure, and I was worried the item would be damaged. They should invest in better packaging materials."
+  },
+  {
+    "Category": "Assortment / Products",
+    "SubCategory": "Search results relevance",
+    "Keywords": [
+      "unrelated results",
+      "irrelevant items",
+      "not accurate search"
+    ],
+    "Answer": "I searched for a specific product, but the search results showed irrelevant items. It was frustrating to scroll through unrelated products."
+  },
+  {
+    "Category": "Customer Service",
+    "SubCategory": "Solution-oriented",
+    "Keywords": [
+      "no solutions offered",
+      "not helpful",
+      "no resolution"
+    ],
+    "Answer": "Customer service wasn’t helpful in finding a solution. They didn’t suggest any alternatives, and I felt like my issue was unresolved."
+  },
+  {
+    "Category": "Pricing",
+    "SubCategory": "Price comparison",
+    "Keywords": [
+      "more expensive than competitors",
+      "higher prices",
+      "overpriced"
+    ],
+    "Answer": "The prices here are higher than other sites for similar items. I would expect competitive pricing, but it seems they charge a premium."
+  }
+]

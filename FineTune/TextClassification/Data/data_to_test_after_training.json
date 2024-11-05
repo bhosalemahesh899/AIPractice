@@ -1,0 +1,62 @@
+[
+  {
+    "Category": "Assortment / Products",
+    "SubCategory": "Stock updates",
+    "Keywords": [ "no stock alerts", "inconsistent updates", "no notifications" ],
+    "Answer": "I never received stock updates for the products I wanted. I missed out on purchasing because I didn’t know when they were back in stock."
+  },
+  {
+    "Category": "Customer Service",
+    "SubCategory": "Friendliness",
+    "Keywords": [ "rude staff", "unfriendly", "cold interaction" ],
+    "Answer": "The staff seemed unfriendly during my interaction. They didn’t make an effort to be polite or welcoming, which left a negative impression."
+  },
+  {
+    "Category": "Website / App",
+    "SubCategory": "Visual appeal",
+    "Keywords": [ "outdated design", "not attractive", "bland interface" ],
+    "Answer": "The website looks outdated and doesn’t have an attractive design. Modernizing the interface would make it more enjoyable to use."
+  },
+  {
+    "Category": "Pricing",
+    "SubCategory": "Special offers",
+    "Keywords": [ "rare promotions", "no special discounts", "few deals" ],
+    "Answer": "I hardly see any special offers on products. It would be great if there were more regular promotions or seasonal sales to take advantage of."
+  },
+  {
+    "Category": "Delivery",
+    "SubCategory": "Communication on delivery",
+    "Keywords": [ "no delivery updates", "poor communication", "no status notifications" ],
+    "Answer": "There was very little communication regarding my delivery. I had no idea when it would arrive because updates were sparse."
+  },
+  {
+    "Category": "Assortment / Products",
+    "SubCategory": "Alignment with needs",
+    "Keywords": [ "not meeting needs", "unsuitable product", "lack of variety" ],
+    "Answer": "The product range didn’t align with what I needed. It seems broad, but finding exactly what fits my requirements was difficult."
+  },
+  {
+    "Category": "Customer Service",
+    "SubCategory": "Advice quality",
+    "Keywords": [ "poor recommendations", "bad advice", "wrong suggestions" ],
+    "Answer": "The advice I received was not helpful. The suggestions didn’t seem to be based on real product knowledge and left me confused."
+  },
+  {
+    "Category": "Website / App",
+    "SubCategory": "Clarity of instructions",
+    "Keywords": [ "unclear steps", "confusing process", "not straightforward" ],
+    "Answer": "The instructions for navigating the website were unclear. It took extra time to figure out how to complete basic tasks."
+  },
+  {
+    "Category": "Pricing",
+    "SubCategory": "Payment flexibility",
+    "Keywords": [ "limited payment plans", "no installment option", "rigid payments" ],
+    "Answer": "There weren’t many payment options available. I would have preferred to pay in installments, but that wasn’t offered."
+  },
+  {
+    "Category": "Delivery",
+    "SubCategory": "Product condition",
+    "Keywords": [ "damaged item", "arrived broken", "poor condition" ],
+    "Answer": "The item I received was damaged upon arrival. It looked like it hadn’t been handled properly during shipping, which was disappointing."
+  }
+]

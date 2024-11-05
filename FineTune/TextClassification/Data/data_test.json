@@ -1,0 +1,122 @@
+[
+  {
+    "Category": "Assortment / Products",
+    "SubCategory": "Product quality",
+    "Keywords": [ "poor quality", "cheap material", "low durability" ],
+    "Answer": "The product quality was disappointing. It looked fine at first, but after a few uses, it started showing signs of wear. I expected better durability."
+  },
+  {
+    "Category": "Assortment / Products",
+    "SubCategory": "Product descriptions",
+    "Keywords": [ "inaccurate description", "misleading details", "not as described" ],
+    "Answer": "The product didn�t match the description on the website. Certain features were missing, and it didn�t perform as expected based on the listed specs."
+  },
+  {
+    "Category": "Customer Service",
+    "SubCategory": "Empathy",
+    "Keywords": [ "no empathy", "didn't understand my concern", "not caring" ],
+    "Answer": "The representative seemed indifferent to my issue and didn�t make an effort to understand my concerns. I felt like my problem wasn�t taken seriously."
+  },
+  {
+    "Category": "Customer Service",
+    "SubCategory": "Clear communication",
+    "Keywords": [ "unclear responses", "hard to understand", "confusing" ],
+    "Answer": "The responses I received were vague and confusing. It took several attempts to get a clear answer, which made the process more frustrating."
+  },
+  {
+    "Category": "Website / App",
+    "SubCategory": "Ease of checkout",
+    "Keywords": [ "complex checkout", "difficult payment", "confusing steps" ],
+    "Answer": "The checkout process was too complex. I had to go through multiple steps, and it wasn�t straightforward. It could be simplified to make it easier."
+  },
+  {
+    "Category": "Website / App",
+    "SubCategory": "Website navigation",
+    "Keywords": [ "hard to navigate", "confusing layout", "not user-friendly" ],
+    "Answer": "The website layout made it difficult to find what I was looking for. It�s not intuitive, and I had to click through multiple menus to get to the right page."
+  },
+  {
+    "Category": "Pricing",
+    "SubCategory": "Value for money",
+    "Keywords": [ "not worth the price", "too expensive", "low value" ],
+    "Answer": "I don�t feel like I got good value for my money. The product is overpriced for the quality, and I wouldn�t purchase it again at this cost."
+  },
+  {
+    "Category": "Pricing",
+    "SubCategory": "Billing accuracy",
+    "Keywords": [ "wrong charges", "overbilled", "incorrect amount" ],
+    "Answer": "There was an issue with billing, as I was overcharged. It took some time to get it resolved, but it made me hesitant to shop here again."
+  },
+  {
+    "Category": "Delivery",
+    "SubCategory": "Tracking information",
+    "Keywords": [ "no tracking", "inaccurate tracking", "can't track package" ],
+    "Answer": "There was no tracking information provided, so I didn�t know where my package was or when it would arrive. It would be helpful to have accurate tracking."
+  },
+  {
+    "Category": "Delivery",
+    "SubCategory": "Timeliness of delivery",
+    "Keywords": [ "late arrival", "not on time", "delayed" ],
+    "Answer": "The delivery was delayed without any explanation. It was frustrating because I needed the item urgently and expected it to arrive as scheduled."
+  },
+  {
+    "Category": "Assortment / Products",
+    "SubCategory": "Ease of use",
+    "Keywords": [ "hard to use", "complicated", "not intuitive" ],
+    "Answer": "The product wasn�t user-friendly and was more complicated to use than I expected. I had to refer to the manual multiple times to figure it out."
+  },
+  {
+    "Category": "Assortment / Products",
+    "SubCategory": "Promotions",
+    "Keywords": [ "no promotions", "missing discounts", "rare deals" ],
+    "Answer": "I rarely see any promotions or discounts on the products I�m interested in. It would be great if there were more frequent sales or special offers."
+  },
+  {
+    "Category": "Customer Service",
+    "SubCategory": "Handling complaints",
+    "Keywords": [ "poor handling", "didn't address issue", "ignored complaint" ],
+    "Answer": "My complaint wasn�t addressed properly. Customer service didn�t seem concerned and just brushed it off without providing a solution."
+  },
+  {
+    "Category": "Customer Service",
+    "SubCategory": "Knowledge of products",
+    "Keywords": [ "not knowledgeable", "couldn�t answer", "uncertain" ],
+    "Answer": "The representative didn�t have enough knowledge about the product I asked about. They were uncertain and couldn�t provide the information I needed."
+  },
+  {
+    "Category": "Website / App",
+    "SubCategory": "Payment options",
+    "Keywords": [ "limited payment methods", "no options", "can't use wallet" ],
+    "Answer": "The payment options were too limited. I wanted to use my digital wallet, but it wasn�t accepted. Offering more choices would make checkout smoother."
+  },
+  {
+    "Category": "Website / App",
+    "SubCategory": "Search functionality",
+    "Keywords": [ "bad search engine", "can't find products", "poor search" ],
+    "Answer": "The search functionality needs improvement. I couldn�t find what I was looking for, and the results didn�t seem relevant to my search terms."
+  },
+  {
+    "Category": "Pricing",
+    "SubCategory": "Clarity of price",
+    "Keywords": [ "unclear pricing", "confusing costs", "hidden charges" ],
+    "Answer": "The pricing wasn�t transparent, with hidden charges added at checkout. It would help if all costs were clear from the start."
+  },
+  {
+    "Category": "Delivery",
+    "SubCategory": "Completeness of delivery",
+    "Keywords": [ "missing items", "incomplete order", "not all products delivered" ],
+    "Answer": "My order arrived, but some items were missing. I had to contact support to get the remaining products, which was inconvenient."
+  },
+  {
+    "Category": "Delivery",
+    "SubCategory": "Handling delays",
+    "Keywords": [ "no delay communication", "no updates", "late notice" ],
+    "Answer": "There was no communication about delays with my order. It just showed up late, and I wasn�t notified beforehand."
+  },
+  {
+    "Category": "Assortment / Products",
+    "SubCategory": "Clarity of information",
+    "Keywords": [ "unclear product details", "incomplete info", "not enough explanation" ],
+    "Answer": "The product information wasn�t clear. Important details like specifications were missing, and it made it hard to make a decision."
+  }
+]
