@@ -1,0 +1,12 @@
+[
+  {"Answer": "I am generally satisfied with the service, but I believe the mobile app needs a redesign to match the current industry standards.","output": {"Sentiment": "Neutral", "SentimentPercentage": "0.65", "NPS": "6"}},
+  {"Answer": "Your product exceeded my expectations! The attention to detail and overall functionality are outstanding, making my life so much easier.","output": {"Sentiment": "Positive", "SentimentPercentage": "0.95", "NPS": "10"}},
+  {"Answer": "The support team was polite but seemed overwhelmed with the number of issues. It took longer than expected to get my problem addressed.","output": {"Sentiment": "Neutral", "SentimentPercentage": "0.61", "NPS": "5"}},
+  {"Answer": "The service was fine, but I encountered multiple website errors during checkout, which almost made me abandon the purchase entirely.","output": {"Sentiment": "Negative", "SentimentPercentage": "0.80", "NPS": "3"}},
+  {"Answer": "I was impressed by the prompt delivery and the quality of the product. It was well-packaged and arrived in perfect condition.","output": {"Sentiment": "Positive", "SentimentPercentage": "0.92", "NPS": "9"}},
+  {"Answer": "Navigating through your site was easy, but the payment process was unnecessarily complicated. Simplifying this would improve user experience.","output": {"Sentiment": "Neutral", "SentimentPercentage": "0.64", "NPS": "6"}},
+  {"Answer": "The recent product update added some nice features, but it also made the app slower to load, which is quite frustrating for daily use.","output": {"Sentiment": "Neutral", "SentimentPercentage": "0.59", "NPS": "5"}},
+  {"Answer": "Great experience with the sales team! They were knowledgeable, friendly, and made the whole buying process smooth and stress-free.","output": {"Sentiment": "Positive", "SentimentPercentage": "0.93", "NPS": "9"}},
+  {"Answer": "While the product does what it claims, the instruction manual was not clear, which led to a more difficult setup than I had anticipated.","output": {"Sentiment": "Neutral", "SentimentPercentage": "0.62", "NPS": "6"}},
+  {"Answer": "The quality of your products has declined compared to previous purchases. This inconsistency makes me hesitant to buy from you again.","output": {"Sentiment": "Negative", "SentimentPercentage": "0.78", "NPS": "4"}}
+]
